@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Fragment_Slider</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="all_images">
+        <item>@drawable/image1_a</item>
+        <item>@drawable/image1_b</item>
+        <item>@drawable/image1_c</item>
+        <item>@drawable/image1_d</item>
+        <item>@drawable/image1_e</item>
+        <item>@drawable/image1_f</item>
+        <item>@drawable/image1_g</item>
+        <item>@drawable/image1_h</item>
+        <item>@drawable/image1_i</item>
+        <item>@drawable/image1_j</item>
+        <item>@drawable/image1_k</item>
+        <item>@drawable/image1_l</item>
+        <item>@drawable/image1_m</item>
+        <item>@drawable/image1_n</item>
+        <item>@drawable/image1_o</item>
+        <item>@drawable/image1_p</item>
+
+    </string-array>
+
+    <string-array name="all_contacts">
+        <item>Mehul Rughani</item>
+        <item>Tejas Jasani</item>
+        <item>Ravi Gadesha</item>
+        <item>Ravi Soneji</item>
+        <item>Bharat Mamtora</item>
+        <item>Vivek Tank</item>
+        <item>Parth Trivedi</item>
+        <item>Hardik Trivedi</item>
+        <item>Mehul Rughani</item>
+        <item>Tejas Jasani</item>
+        <item>Ravi Soneji</item>
+        <item>Mehul Rughani</item>
+        <item>Bharat Mamtora</item>
+        <item>Vivek Tank</item>
+        <item>Parth Trivedi</item>
+        <item>Hardik Trivedi</item>
+        <item>Mehul Rughani</item>
+    </string-array>
+
+</resources>
